@@ -21,17 +21,17 @@ Python, Pandas, NLTK, VADER, LDA Topic Modeling, NLP, Data Visualization, Jupyte
 ### Employee Sentiment Analysis Overview
 ![Employee Sentiment Analysis Overview](Screenshots/Capture.PNG)
 
-### Sentiment Analysis Dashboard
+### Importing the dataet
 ![Sentiment Analysis Dashboard](Screenshots/ESA-1.PNG)
 
-### Employee Review Insights
+### Data Preprocessing
 ![Employee Review Insights](Screenshots/ESA-2.PNG)
 
-### Topic Modeling Results
+### Sentiment Analysis
 ![Topic Modeling Results](Screenshots/ESA-3.PNG)
 
-### Opportunity Mapping Analysis
+### Topic Modelling
 ![Opportunity Mapping Analysis](Screenshots/ESA-4.PNG)
 
-### Key Findings & Recommendations
+### Opportunity Mapping
 ![Key Findings & Recommendations](Screenshots/ESA-5.PNG)
